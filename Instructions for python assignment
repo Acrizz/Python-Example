@@ -1,0 +1,26 @@
+Assignment 6a
+
+
+Instructions: 
+
+Write a Python based Modalized program (using functions that have one purpose) to solve this program
+
+
+You are asked to write a program to determine business travel expenses that are reimbursable.   The application should allow the user to input Number of Days of Trip, Air Travel Costs, Total Lodging Costs for the trip, and Total Food Costs for the trip.  These costs are associated to an employee traveling on business.  The business will reimburse the employee for the trip based on the following:
+
+For Management employees:
+Up to $500 for Airfare for each trip.
+Per Diem of $125.00 a day for Lodging.
+Per Diem of $75.00 a day for Food.  
+For non-Management employees:
+Up to $400 for Airfare for each trip.
+Per Diem of $100.00 a day for Lodging.
+Per Diem of $50.00 a day for Food.  
+
+NOTE:  PER DIEM – means you get money if you use it or not. 
+
+The employee can take more expensive flights, stay at more expensive hotels, and eat more expensive food, yet they will have to pay the difference between the total costs of each and what the company will pay.  
+
+Create a Console Based Python Program that will allow the necessary inputs to perform the necessary calculations.   Upon receiving all input, Total Travel Costs, Total Amount Reimbursed by Company, and Total Employee Responsible Amount should be displayed. 
+
+
